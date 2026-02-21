@@ -1,0 +1,14 @@
+
+.VehiculesData {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.VehiculesInd {
+  text-align: left;
+}
+
+.VehiculesInd h4{
+  text-align: center;
+}
