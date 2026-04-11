@@ -1,0 +1,19 @@
+.barContainer {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 1rem 2rem;
+}
+
+.input {
+  flex: 1;
+  padding: 8px 16px;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  font-size: 1rem;
+}
+
+.button {
+  padding: 8px 20px;
+  cursor: pointer;
+}
