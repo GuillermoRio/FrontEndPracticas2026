@@ -2,7 +2,6 @@
 
 import { useRouter } from "next/navigation";
 import './navegationBar.css'
-//import { Home, LogOut } from "lucide-react";
 
 export default function Navbar() {
   const router = useRouter();
